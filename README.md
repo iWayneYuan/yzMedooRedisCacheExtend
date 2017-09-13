@@ -1,0 +1,2 @@
+# yzMedooRedisCacheExtend
+简单扩展medoo支持redis缓存sql结果策略，无需更改原有代码，接口跟medoo一模一样，无缝切换，并发秒提升
